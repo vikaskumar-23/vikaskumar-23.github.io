@@ -23,14 +23,21 @@
 
 ### Spring semester courses:
 i. **PH102**, Physics, *Dr. Vaibhav Wasnik* 
+
 ii. **CS102**, WEB-D, *Dr. Clint P. George* 
+
 iii. **ME102**, Engineering Drawing, *Dr. Arindam Das* 
+
 iv. **EE101**, Electrical, *Dr. Apeksha Madhukar* 
+
 v. **MA102**, Maths, *Dr. Kalpesh Haria* 
+
 vi. **ELPP**, English, *Dr. Neeraja Raghavan* 
+
 vii. **BIO101**, Biologty, *Dr. Sreenath Balakrishnan* 
 
 # Hobbies, Interests, Extracurricular Activities, Projects
-- I like to watch anime 
+- I like to watch anime
+  
  ![code](https://upload.wikimedia.org/wikipedia/en/7/74/Code_Geass_R1_box_set_cover.jpg)
 - I love to play Badmintion ![bad](https://img.etimg.com/thumb/width-1200,height-1200,imgsize-73554,resizemode-75,msid-103765538/top-trending-products/sports-equipment/best-badminton-racquets-to-unleash-your-potential-and-elevate-your-game.jpg)
