@@ -1,4 +1,4 @@
-[About](#About) | [Education](#Education) | [Course](#Course) | [Hobbies](#Hobbies)
+[About](#About) | [Education](#Education) | [Course](#Course) | [Hobbies](#Hobbies,Interests,ExtracurricularActivities,Projects)
 # About me
 **Vikas Kumar**
 
@@ -37,7 +37,7 @@ vi. **ELPP**, English, *Dr. Neeraja Raghavan*
 
 vii. **BIO101**, Biologty, *Dr. Sreenath Balakrishnan* 
 
-# Hobbies
+# Hobbies, Interests, Extracurricular Activities, Projects
 - I like to watch anime
   
  ![code](https://upload.wikimedia.org/wikipedia/en/7/74/Code_Geass_R1_box_set_cover.jpg)
