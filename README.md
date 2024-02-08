@@ -40,4 +40,4 @@ vii. **BIO101**, Biologty, *Dr. Sreenath Balakrishnan*
 - I like to watch anime
   
  ![code](https://upload.wikimedia.org/wikipedia/en/7/74/Code_Geass_R1_box_set_cover.jpg)
-- I love to play Badmintion ![bad](https://img.etimg.com/thumb/width-1200,height-1200,imgsize-73554,resizemode-75,msid-103765538/top-trending-products/sports-equipment/best-badminton-racquets-to-unleash-your-potential-and-elevate-your-game.jpg =500x400)
+- I love to play Badmintion ![bad](https://img.etimg.com/thumb/width-1200,height-1200,imgsize-73554,resizemode-75,msid-103765538/top-trending-products/sports-equipment/best-badminton-racquets-to-unleash-your-potential-and-elevate-your-game.jpg=500x400)
