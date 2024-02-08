@@ -1,4 +1,4 @@
-[About](#About) | [Education](#Education) | [Course](#Course) | [Hobbies](#Hobbies,)
+[About](#About) | [Education](#Education) | [Course](#Course) | [Hobbies](#Hobbies, Interests, Extracurricular Activities, Projects)
 # About me
 **Vikas Kumar**
 
