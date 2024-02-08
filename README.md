@@ -7,7 +7,7 @@
 # Education
 
 | Academic Year | Standard  | School |
-| ------------- |-----------|--------|
+| :-------------: |-----------|--------|
 | 2023          | First Year|   CSE  |
 
 # Course @IIT Goa
