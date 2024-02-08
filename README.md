@@ -7,19 +7,19 @@
 # Education
 
 | Academic Year | Standard  | School |
-| :-------------: |-----------|--------|
+|---------------|-----------|--------|
 | 2023          | First Year|   CSE  |
 
 # Course @IIT Goa
 ### Autumn semester courses:
-- [ ] **PH101**, Physics, *Dr. Santosh Kumar Das* 
-- [ ] **CS101**, Python, *Dr. Clint P. George* 
-- [ ] **CH101**, Physical Chemistry, *Dr. E. Siva Eyer* 
-- [ ] **CH102**, Organic/Inorganic Chemistry, *Dr. Santosh Kumar Das* 
-- [ ] **MA101**, Maths, *Dr. Sandipan De* 
-- [ ] **ELPP**, English, *Dr. Neeraja Raghavan* 
-- [ ] **HS101**, Humanities, *Dr. Sabiha Hashami* 
-- [ ] **CS100**, CSE, *Dr. Venkatesh Kamat* 
+- [ ]  **PH101**, Physics, *Dr. Santosh Kumar Das* 
+- [ ]  **CS101**, Python, *Dr. Clint P. George* 
+- [ ]  **CH101**, Physical Chemistry, *Dr. E. Siva Eyer* 
+- [ ]  **CH102**, Organic/Inorganic Chemistry, *Dr. Santosh Kumar Das* 
+- [ ]  **MA101**, Maths, *Dr. Sandipan De* 
+- [ ]  **ELPP**, English, *Dr. Neeraja Raghavan* 
+- [ ]  **HS101**, Humanities, *Dr. Sabiha Hashami* 
+- [ ]  **CS100**, CSE, *Dr. Venkatesh Kamat* 
 
 ### Spring semester courses:
 i. **PH102**, Physics, *Dr. Vaibhav Wasnik* 
