@@ -1,3 +1,77 @@
+body {
+  background-image: url("https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-2310713.jpg&fm=jpg");
+}
+#about{
+    margin-left: 20px;
+}
 #aboutme{
+    
+    margin-left: 2px;
     background-color: lightsalmon;
+    border-style: solid;
+    border-width: 2px;
+}
+#name{
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    text-align: left;
+    font-size: 13px;
+}
+#pfp{
+    border-radius: 700px;
+    padding: 45px;
+    width: 172px;
+    height: 172px;
+}
+#img1{
+    border-radius: 70px;
+}
+#img2{
+    border-radius: 50px;
+}
+#intro{
+    margin-left: -10px;
+    font-family: sans-serif;
+    color: blue; 
+}
+#hobby{
+    font-size: 2em;
+    color: black;
+    margin-left: 2px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/026/161/690/non_2x/badminton-equipments-rackets-and-white-cream-shuttlecocks-on-sand-floor-of-outdoor-badminton-court-selective-focus-concept-for-outdoor-activity-and-outdoor-sports-for-health-free-photo.jpg");
+    border-style: solid;
+    border-width: 2px;
+    
+    text-align: center;
+    -webkit-animation: glow 0.2s ease-in-out infinite alternate;
+    -moz-animation: glow 0.2s ease-in-out infinite alternate;
+    animation: glow 0.2s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+
+table, th, td{
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border: 2px solid;
+}
+th {
+    text-decoration: underline;
+    text-align: left;
+}
+#mid{
+    text-align: center;
+}
+#mid{
+    text-align: left;
 }
